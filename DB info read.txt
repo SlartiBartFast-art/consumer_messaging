@@ -1,0 +1,6 @@
+IMPORTANT!
+это вторая часть REST API проекта микросервисы.
+Использована БД из проекта synchronous_messaging
+в нем:
+Create DB name = synchronous_messaging;
+описание таблиц  = schema.sql
