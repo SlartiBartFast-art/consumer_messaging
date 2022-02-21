@@ -4,3 +4,9 @@ IMPORTANT!
 в нем:
 Create DB name = synchronous_messaging;
 описание таблиц  = schema.sql
+
+
+(так как это вторая часть проекта порт 8080 занят,
+ при запущенной Часть-1 проекта https://github.com/SlartiBartFast-art/job4j_synchronous_messaging)
+#Порты, зависящие от среды
+server.port=8081
