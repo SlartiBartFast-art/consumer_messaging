@@ -62,4 +62,3 @@ Used stack technologies:
 ![Image of Arch](https://github.com/SlartiBartFast-art/consumer_messaging/blob/master/image/Screenshot_8.jpg)
 
 
-используя RestTemplate
