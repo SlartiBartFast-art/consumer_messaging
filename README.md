@@ -1,5 +1,7 @@
 # simple consumer_messaging project
 
+![GitHub top language](https://img.shields.io/github/languages/top/SlartiBartFast-art/consumer_messaging?logo=java&logoColor=red)
+
 Часть 2-я Consumer
 
 (Часть 1-я Provider # simple project synchronous messaging)
