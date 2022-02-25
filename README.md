@@ -1,6 +1,7 @@
 # simple consumer_messaging project
 
 ![GitHub top language](https://img.shields.io/github/languages/top/SlartiBartFast-art/consumer_messaging?logo=java&logoColor=red)
+![GitHub last commit](https://img.shields.io/github/last-commit/SlartiBartFast-art/consumer_messaging?logo=github)
 
 Часть 2-я Consumer
 
