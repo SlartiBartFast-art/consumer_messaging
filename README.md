@@ -8,6 +8,8 @@
 
 (Часть 1-я Provider # application project synchronous messaging)
 
+  - https://github.com/SlartiBartFast-art/synchronous_messaging
+
 Used stack technologies:
 
 - Java (Back-end)
